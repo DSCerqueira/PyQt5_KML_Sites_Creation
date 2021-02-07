@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" 
+xmlns:atom="http://www.w3.org/2005/Atom" >
+<Document>
+	<name>KML_File_Sectors</name>
+	<Style id="AR01">
+		<IconStyle>
+			<color>FF0000FF</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>AR01</name>
+		<Style id="corsite">
+			<IconStyle>
+				<color>ffffffff</color>
+				<scale>0.5</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Folder>
+			<name>18NLANGR01</name>
+			<Placemark>
+				<name>18NLANGR01</name>
+					<description><![CDATA[<table border="1" padding="0"></tr><td><tr><td>PAR01=nan</tr><td><tr><td>PAR02=nan</tr><td><tr><td>PAR03=nan</tr><td><tr><td>PAR04=nan</tr><td><tr><td>PAR05=nan</tr><td>]]></description>
+				<styleUrl>#corsite</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>-44.22241667,-23.03530556,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id="corsite">
+			<IconStyle>
+				<color>ffffffff</color>
+				<scale>0.5</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Folder>
+			<name>18NLANGR02</name>
+			<Placemark>
+				<name>18NLANGR02</name>
+					<description><![CDATA[<table border="1" padding="0"></tr><td><tr><td>PAR01=nan</tr><td><tr><td>PAR02=nan</tr><td><tr><td>PAR03=nan</tr><td><tr><td>PAR04=nan</tr><td><tr><td>PAR05=nan</tr><td>]]></description>
+				<styleUrl>#corsite</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>-44.29580556,-23.02086111,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id="corsite">
+			<IconStyle>
+				<color>ffffffff</color>
+				<scale>0.5</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Folder>
+			<name>18NLANGR03</name>
+			<Placemark>
+				<name>18NLANGR03</name>
+					<description><![CDATA[<table border="1" padding="0"></tr><td><tr><td>PAR01=nan</tr><td><tr><td>PAR02=nan</tr><td><tr><td>PAR03=nan</tr><td><tr><td>PAR04=nan</tr><td><tr><td>PAR05=nan</tr><td>]]></description>
+				<styleUrl>#corsite</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>-44.31830556,-23.00741667,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id="corsite">
+			<IconStyle>
+				<color>ffffffff</color>
+				<scale>0.5</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Folder>
+			<name>18NLANGR04</name>
+			<Placemark>
+				<name>18NLANGR04</name>
+					<description><![CDATA[<table border="1" padding="0"></tr><td><tr><td>PAR01=nan</tr><td><tr><td>PAR02=nan</tr><td><tr><td>PAR03=nan</tr><td><tr><td>PAR04=nan</tr><td><tr><td>PAR05=nan</tr><td>]]></description>
+				<styleUrl>#corsite</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>-44.296028,-22.984528,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id="corsite">
+			<IconStyle>
+				<color>ffffffff</color>
+				<scale>0.5</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Folder>
+			<name>18NLANGR05</name>
+			<Placemark>
+				<name>18NLANGR05</name>
+					<description><![CDATA[<table border="1" padding="0"></tr><td><tr><td>PAR01=nan</tr><td><tr><td>PAR02=nan</tr><td><tr><td>PAR03=nan</tr><td><tr><td>PAR04=nan</tr><td><tr><td>PAR05=nan</tr><td>]]></description>
+				<styleUrl>#corsite</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>-44.32458333,-22.95658333,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id="corsite">
+			<IconStyle>
+				<color>ffffffff</color>
+				<scale>0.5</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Folder>
+			<name>18NLANGR06</name>
+			<Placemark>
+				<name>18NLANGR06</name>
+					<description><![CDATA[<table border="1" padding="0"></tr><td><tr><td>PAR01=nan</tr><td><tr><td>PAR02=nan</tr><td><tr><td>PAR03=nan</tr><td><tr><td>PAR04=nan</tr><td><tr><td>PAR05=nan</tr><td>]]></description>
+				<styleUrl>#corsite</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>-44.39161111,-22.94363889,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id="corsite">
+			<IconStyle>
+				<color>ffffffff</color>
+				<scale>0.5</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Folder>
+			<name>18NLANGR07</name>
+			<Placemark>
+				<name>18NLANGR07</name>
+					<description><![CDATA[<table border="1" padding="0"></tr><td><tr><td>PAR01=nan</tr><td><tr><td>PAR02=nan</tr><td><tr><td>PAR03=nan</tr><td><tr><td>PAR04=nan</tr><td><tr><td>PAR05=nan</tr><td>]]></description>
+				<styleUrl>#corsite</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>-44.440472,-22.959556,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id="corsite">
+			<IconStyle>
+				<color>ffffffff</color>
+				<scale>0.5</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Folder>
+			<name>18NLANGR08</name>
+			<Placemark>
+				<name>18NLANGR08</name>
+					<description><![CDATA[<table border="1" padding="0"></tr><td><tr><td>PAR01=nan</tr><td><tr><td>PAR02=nan</tr><td><tr><td>PAR03=nan</tr><td><tr><td>PAR04=nan</tr><td><tr><td>PAR05=nan</tr><td>]]></description>
+				<styleUrl>#corsite</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>-44.44880556,-23.00486111,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id="corsite">
+			<IconStyle>
+				<color>ffffffff</color>
+				<scale>0.5</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Folder>
+			<name>18NLANGR10</name>
+			<Placemark>
+				<name>18NLANGR10</name>
+					<description><![CDATA[<table border="1" padding="0"></tr><td><tr><td>PAR01=nan</tr><td><tr><td>PAR02=nan</tr><td><tr><td>PAR03=nan</tr><td><tr><td>PAR04=nan</tr><td><tr><td>PAR05=nan</tr><td>]]></description>
+				<styleUrl>#corsite</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>-44.541000000000004,-23.02630556,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
